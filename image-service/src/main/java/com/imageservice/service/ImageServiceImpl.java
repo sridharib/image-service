@@ -1,4 +1,4 @@
-package com.callsign.imageservice.service;
+package com.imageservice.service;
 
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.stereotype.Service;
@@ -18,7 +18,7 @@ public class ImageServiceImpl implements ImageService {
 
     private static final int DISTORTION_EFFECT = 3;
 
-    private static final String IMAGE_PATH = "images/0.png";
+    private static final String IMAGE_PATH = "images/0.jpg";
 
     /**
      * Get the image as stream

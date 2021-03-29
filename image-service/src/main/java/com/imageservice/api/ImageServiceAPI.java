@@ -1,6 +1,6 @@
-package com.callsign.imageservice.api;
+package com.imageservice.api;
 
-import com.callsign.imageservice.service.ImageService;
+import com.imageservice.service.ImageService;
 import org.springframework.core.io.InputStreamResource;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;

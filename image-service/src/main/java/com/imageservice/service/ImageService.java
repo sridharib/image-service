@@ -1,4 +1,4 @@
-package com.callsign.imageservice.service;
+package com.imageservice.service;
 
 import java.io.IOException;
 import java.io.InputStream;

@@ -1,6 +1,6 @@
-package com.callsign.imageservice.api;
+package com.imageservice.api;
 
-import com.callsign.imageservice.service.ImageServiceImpl;
+import com.imageservice.service.ImageServiceImpl;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.core.io.InputStreamResource;

@@ -1,4 +1,4 @@
-package com.callsign.imageservice.service;
+package com.imageservice.service;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -20,7 +20,7 @@ class ImageServiceTest {
     @BeforeEach
     public void beforeEach() {
         imageService = new ImageServiceImpl();
-        resource = new ClassPathResource("images/0.png");
+        resource = new ClassPathResource("images/0.jpg");
     }
 
     @Test

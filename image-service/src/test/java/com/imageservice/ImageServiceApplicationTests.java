@@ -1,4 +1,4 @@
-package com.callsign.imageservice;
+package com.imageservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
